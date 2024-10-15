@@ -3,7 +3,7 @@
 
 import { useRef } from "react";
 import CentreBody from "@/components/CentreBody";
-import { BackgroundCircles } from "@/components/design/backgroundcircles";
+import {BackgroundCircles} from "@/components/ui/BackgroundCircles";
 
 
 export default function Home() {
